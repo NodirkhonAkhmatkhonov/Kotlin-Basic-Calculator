@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="heightOfButtons">60dp</dimen>
+    <dimen name="sizeOfButtonText">28sp</dimen>
+    <dimen name="paddingOfButton">13dp</dimen>
+</resources>
